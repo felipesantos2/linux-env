@@ -8,14 +8,21 @@ tree             - cli   https://www.cyberciti.biz/faq/linux-show-directory-stru
 Github Cli       - cli   https://github.com/cli/cli#installation
 vscode
 vscode insiders
+Beekeeper Studio
+
 
 ## TRABALHO
 WSL
 UBUNTU  - 6.6.87.2-microsoft-standard-WSL2
 Git
-Docker
+Docker Desktop
 Zoxide           - cli   https://github.com/ajeetdsouza/zoxide 
 tree             - cli   https://www.cyberciti.biz/faq/linux-show-directory-structure-command-line
 Github Cli       - cli   https://github.com/cli/cli#installation
 vscode
 vscode insiders
+Pycharm
+DataGrip
+HeidiSQL
+Beekeeper Studio
+
