@@ -21,7 +21,6 @@ tree             - cli   https://www.cyberciti.biz/faq/linux-show-directory-stru
 Github Cli       - cli   https://github.com/cli/cli#installation
 vscode
 vscode insiders
-Pycharm
 DataGrip
 HeidiSQL
 Beekeeper Studio
