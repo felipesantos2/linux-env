@@ -9,7 +9,8 @@ Github Cli       - cli   https://github.com/cli/cli#installation
 vscode
 vscode insiders
 Beekeeper Studio
-
+Brave
+Chrome
 
 ## TRABALHO
 WSL
@@ -24,4 +25,6 @@ vscode insiders
 DataGrip
 HeidiSQL
 Beekeeper Studio
-
+Brave
+Chrome
+DevToys
