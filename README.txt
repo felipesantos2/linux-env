@@ -30,3 +30,4 @@ Beekeeper Studio
 Brave
 Chrome
 DevToys
+HTTPie Desktop
