@@ -1,6 +1,6 @@
 ## CASA
-Pop-os 24.04 
-Kernel 6.17.9-76061709-generic
+UBUNTU
+Kernel 6.17.0-8-generic
 Git
 Docker   
 Zoxide           - cli   https://github.com/ajeetdsouza/zoxide 
