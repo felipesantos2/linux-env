@@ -14,7 +14,7 @@ Chrome
 Ghostty Terminal
 
 pyenv           - cli - https://github.com/pyenv/pyenv
-pipc            - cli 
+pipx            - cli 
 poetry          - cli
 
 ## TRABALHO
